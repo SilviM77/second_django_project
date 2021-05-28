@@ -1,1 +1,1 @@
-var - "Get it"
+var = "Get it"
